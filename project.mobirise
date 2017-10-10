@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 35,
     "versionPublish": "4.3.2",
@@ -462,7 +462,7 @@
               "background-color": "@bg-value"
             },
             "H1": {
-              "color": "#550e20",
+              "color": "#ff3366",
               "text-align": "left"
             }
           },
