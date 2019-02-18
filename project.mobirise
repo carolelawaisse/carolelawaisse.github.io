@@ -27,7 +27,7 @@
         "display4Font": "Merriweather",
         "display4Size": 1,
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
@@ -43,7 +43,7 @@
     "favicon": "",
     "noImageResize": "true",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "google-analytics": "UA-129084581-1",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-129084581-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-129084581-1');\r\n</script>",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
